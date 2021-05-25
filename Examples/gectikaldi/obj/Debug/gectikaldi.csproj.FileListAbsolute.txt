@@ -1,0 +1,6 @@
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\bin\Debug\gectikaldi.exe.config
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\bin\Debug\gectikaldi.exe
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\bin\Debug\gectikaldi.pdb
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\obj\Debug\gectikaldi.csproj.CoreCompileInputs.cache
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\obj\Debug\gectikaldi.exe
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\gectikaldi\obj\Debug\gectikaldi.pdb

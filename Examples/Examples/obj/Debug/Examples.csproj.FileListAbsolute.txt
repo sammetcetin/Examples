@@ -1,0 +1,7 @@
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\bin\Debug\Examples.exe.config
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\bin\Debug\Examples.exe
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\bin\Debug\Examples.pdb
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\obj\Debug\Examples.exe
+C:\Users\TEKNIK OFFICE 3\source\repos\Examples\Examples\obj\Debug\Examples.pdb
